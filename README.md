@@ -1,6 +1,6 @@
 Flight controller for the Minion
 
-![minion](https://raw.githubusercontent.com/hoffmannmatheus/dRehmFlight/main/minion.jpg)
+![minion](https://raw.githubusercontent.com/hoffmannmatheus/dRehmFlight/minion/minion.jpg)
 
 First Flight: https://youtu.be/dd2HGMvTOR4
 
