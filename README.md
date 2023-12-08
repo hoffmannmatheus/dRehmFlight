@@ -1,8 +1,8 @@
 Flight controller for the Minion
 
-![minion](https://raw.githubusercontent.com/hoffmannmatheus/dRehmFlight/minion/minion.jpg)
+![PXL_20231008_173830503_2](https://github.com/hoffmannmatheus/dRehmFlight/assets/889815/f8b640a8-5007-4de6-b05f-a8e5355490d3)
 
-First Flight: https://youtu.be/dd2HGMvTOR4
+Post about building this drone: [void.mhsilva.com/2023/10/building-diy-drone](https://void.mhsilva.com/2023/10/building-diy-drone.html) 
 
 --- 
 Original readme:
